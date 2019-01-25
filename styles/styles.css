@@ -1,0 +1,19 @@
+.bright {
+  color: purple;
+}
+
+img {
+  width: 25%;
+  max-width: 450px;
+  margin: 5%;
+  border: 5px dotted rgb(159, 198, 159);
+  border-radius: 25px 0 25px 0;
+}
+
+a[href='http://www.github.com']{
+  background-color: orange;
+}
+
+a[href='http://www.css-tricks.com']{
+  background-color: blue;
+}
